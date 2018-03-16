@@ -7,3 +7,6 @@ doc-tools
 mkrelease.sh
 release
 myredis.conf
+.idea
+cmake-build-debug
+CmakeLists.txt
