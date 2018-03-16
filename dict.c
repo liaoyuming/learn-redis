@@ -1,5 +1,7 @@
 /* Hash Tables Implementation.
  *
+ * 哈希表实现
+ *
  * This file implements in memory hash tables with insert/del/replace/find/
  * get-random-element operations. Hash tables will auto resize if needed
  * tables of power of two in size are used, collisions are handled by

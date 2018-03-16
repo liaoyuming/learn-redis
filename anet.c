@@ -1,5 +1,7 @@
 /* anet.c -- Basic TCP socket stuff made a bit less boring
  *
+ * 基本的 TCP 套接字
+ *
  * Copyright (c) 2006-2009, Salvatore Sanfilippo <antirez at gmail dot com>
  * All rights reserved.
  *

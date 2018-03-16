@@ -1,5 +1,7 @@
 /* adlist.c - A generic doubly linked list implementation
  *
+ * 通用双链表实现
+ *
  * Copyright (c) 2006-2009, Salvatore Sanfilippo <antirez at gmail dot com>
  * All rights reserved.
  *

@@ -1,5 +1,7 @@
 /* SDSLib, A C dynamic strings library
  *
+ * C 动态字符串库
+ *
  * Copyright (c) 2006-2009, Salvatore Sanfilippo <antirez at gmail dot com>
  * All rights reserved.
  *

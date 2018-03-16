@@ -1,6 +1,8 @@
 /* The following is the NetBSD libc qsort implementation modified in order to
  * support partial sorting of ranges for Redis.
  *
+ * 对 NetBSD 库中 qsort 的实现修改，以支持对 Redis 的部分排序
+ *
  * Copyright(C) 2009 Salvatore Sanfilippo. All rights reserved.
  *
  * The original copyright notice follows. */

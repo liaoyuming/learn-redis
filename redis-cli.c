@@ -1,5 +1,7 @@
 /* Redis CLI (command line interface)
  *
+ * Redis 客户端（命令行接口）
+ *
  * Copyright (c) 2006-2009, Salvatore Sanfilippo <antirez at gmail dot com>
  * All rights reserved.
  *

@@ -1,1 +1,9 @@
 Check the 'doc' directory. doc/README.html is a good starting point :)
+查看 'doc' 文件夹， doc/malloc() 是一个好的开始 :)
+
+---
+
+### 学习 redis 1.0 源码
+- 翻译注释，文档
+- 添加代码注释
+- 写些学习例子
